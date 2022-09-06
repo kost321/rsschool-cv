@@ -39,7 +39,7 @@ function sumTwoSmallestNumbers(numbers) {
 ## Courses:
 
 - Сompleted Frontend End Developer [TeachMeSkills](https://teachmeskills.by/kursy-programmirovaniya/frontend-html-css-javascript-minsk) courses.
-![Certificate](/media/Certificate.pdf)
+[Certificate](https://www.linkedin.com/in/kanstantsin-nichyparenka/overlay/1635500643296/single-media-viewer/)
 
 - JavaScript Algorithms and Data Structures
 [Certificate](https://www.freecodecamp.org/certification/fccc9b2dccc-5a72-4526-b744-8f1032a89331/javascript-algorithms-and-data-structures)
